@@ -58,4 +58,4 @@ Security Features
 
     SSL/TLS Encryption:
         All communication between client and server is encrypted.
-        A self-signed certificate (server.crt) is used for secure connections.
+        A self-signed certificate (server.crt) is used for secure connections. (this is not included in the public repo.)
